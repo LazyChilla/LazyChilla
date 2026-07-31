@@ -27,7 +27,7 @@ Ein Klick auf **⬇️ Download** führt zur neuesten Version. &nbsp;·&nbsp; A 
 | <img src="images/adextension.jpg" width="200"> | **AutoDrive Extension** | Hängt eine Button-Leiste an das AutoDrive-HUD an: Fahrziele mit einem Klick anfahren, Werkstatt-Button, letzten Zustand merken & zurückspringen. <br> _Adds a button bar to the AutoDrive HUD: drive to destinations with one click, workshop button, remember & jump back to the last state._ | [⬇️](https://github.com/LazyChilla/FS25_AD_Extension/releases/latest) |
 | <img src="images/gotonextfield.jpg" width="200"> | **Go To Next Field** | Zeigt dir direkt vom Fahrersitz, welches Feld sich mit dem aktuell angehängten Gerät als nächstes bearbeiten lässt. <br> _Shows you, right from the driver's seat, which field can be worked next with your currently attached implement._ | [⬇️](https://github.com/LazyChilla/FS25_GoToNextField/releases/latest) |
 | <img src="images/saatplan.jpg" width="200"> | **Field Crop Planner** | Hilft dir, den Anbau in Richtung voller Autarkie für deine aktiven eigenen Produktionen zu optimieren. <br> _Helps you optimise your cropping toward full self-sufficiency for your active own productions._ | [⬇️](https://github.com/LazyChilla/FS25_FieldCropPlanner/releases/latest) |
-| <img src="images/farmassistant.jpg" width="200"> | **FarmAssistant** &nbsp;`BETA` | Feldarbeits-Assistent: zeigt auf einen Blick, welche Felder düngen, kalken, Steine sammeln oder ernten wollen. <br> _Field-work assistant: see at a glance which fields need fertiliser, lime, stone-picking or harvesting._ | [⬇️](https://github.com/LazyChilla/FS25_FarmAssistant/releases) |
+| <img src="images/farmassistant.jpg" width="200"> | **FarmAssistant** &nbsp;`BETA` | Der Dach-Mod: bündelt deine täglichen Aufgaben aus dem ganzen Hof — Feldarbeit, Produktionen, Tiere, Baustellen, Kauf & Verkauf — und zeigt sie priorisiert auf einen Blick. <br> _The umbrella mod: bundles your daily tasks from across the whole farm — fieldwork, productions, animals, construction, buying & selling — and shows them prioritised at a glance._ | [⬇️](https://github.com/LazyChilla/FS25_FarmAssistant/releases) |
 
 <sub>ℹ️ **FarmAssistant** ist noch **Beta** (Pre-Release) — Feedback willkommen. / **FarmAssistant** is still **beta** (pre-release) — feedback welcome.</sub>
 
@@ -49,7 +49,7 @@ Mods de confort pour **Farming Simulator 25** — tous gratuits et open-source. 
 - **AutoDrive Extension** — Ajoute une barre de boutons à l'ATH d'AutoDrive : rejoindre des destinations en un clic, bouton atelier, mémoriser et revenir au dernier état. → [Télécharger](https://github.com/LazyChilla/FS25_AD_Extension/releases/latest)
 - **Go To Next Field** — Depuis le siège du conducteur, indique quel champ peut être travaillé avec l'outil actuellement attelé. → [Télécharger](https://github.com/LazyChilla/FS25_GoToNextField/releases/latest)
 - **Field Crop Planner** — Aide à optimiser les cultures vers une autosuffisance complète pour tes propres productions actives. → [Télécharger](https://github.com/LazyChilla/FS25_FieldCropPlanner/releases/latest)
-- **FarmAssistant** _(bêta)_ — Assistant de travaux : voit d'un coup d'œil quels champs ont besoin d'engrais, de chaux, d'épierrage ou de récolte. → [Télécharger](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
+- **FarmAssistant** _(bêta)_ — Le mod chapeau : regroupe tes tâches quotidiennes de toute la ferme — travaux aux champs, productions, animaux, chantiers, achat & vente — et les affiche par priorité d'un coup d'œil. → [Télécharger](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
 
 </details>
 
@@ -69,7 +69,7 @@ Mod di comodità per **Farming Simulator 25** — tutti gratuiti e open-source. 
 - **AutoDrive Extension** — Aggiunge una barra di pulsanti all'HUD di AutoDrive: raggiungi destinazioni con un clic, pulsante officina, memorizza e torna all'ultimo stato. → [Scarica](https://github.com/LazyChilla/FS25_AD_Extension/releases/latest)
 - **Go To Next Field** — Dal posto di guida, mostra quale campo può essere lavorato con l'attrezzo attualmente attaccato. → [Scarica](https://github.com/LazyChilla/FS25_GoToNextField/releases/latest)
 - **Field Crop Planner** — Aiuta a ottimizzare le colture verso la piena autosufficienza per le tue produzioni attive. → [Scarica](https://github.com/LazyChilla/FS25_FieldCropPlanner/releases/latest)
-- **FarmAssistant** _(beta)_ — Assistente ai lavori: mostra a colpo d'occhio quali campi necessitano di concime, calce, spietramento o raccolta. → [Scarica](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
+- **FarmAssistant** _(beta)_ — Il mod ombrello: raccoglie i tuoi compiti quotidiani di tutta la fattoria — lavori nei campi, produzioni, animali, cantieri, acquisto e vendita — e li mostra per priorità a colpo d'occhio. → [Scarica](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
 
 </details>
 
@@ -89,7 +89,7 @@ Mods de conveniência para o **Farming Simulator 25** — todos gratuitos e de c
 - **AutoDrive Extension** — Adiciona uma barra de botões ao HUD do AutoDrive: ir a destinos com um clique, botão de oficina, memorizar e voltar ao último estado. → [Descarregar](https://github.com/LazyChilla/FS25_AD_Extension/releases/latest)
 - **Go To Next Field** — Do assento do condutor, mostra qual campo pode ser trabalhado com a alfaia atualmente engatada. → [Descarregar](https://github.com/LazyChilla/FS25_GoToNextField/releases/latest)
 - **Field Crop Planner** — Ajuda a otimizar o cultivo rumo à autossuficiência total para as tuas produções ativas. → [Descarregar](https://github.com/LazyChilla/FS25_FieldCropPlanner/releases/latest)
-- **FarmAssistant** _(beta)_ — Assistente de trabalho: vê num relance quais campos precisam de adubo, cal, despedrega ou colheita. → [Descarregar](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
+- **FarmAssistant** _(beta)_ — O mod chapéu: reúne as tuas tarefas diárias de toda a quinta — trabalhos no campo, produções, animais, obras, compra e venda — e mostra-as por prioridade num relance. → [Descarregar](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
 
 </details>
 
@@ -109,7 +109,7 @@ Mods de comodidad para **Farming Simulator 25** — todos gratuitos y de código
 - **AutoDrive Extension** — Añade una barra de botones al HUD de AutoDrive: ir a destinos con un clic, botón de taller, memorizar y volver al último estado. → [Descargar](https://github.com/LazyChilla/FS25_AD_Extension/releases/latest)
 - **Go To Next Field** — Desde el asiento del conductor, muestra qué campo se puede trabajar con el apero actualmente enganchado. → [Descargar](https://github.com/LazyChilla/FS25_GoToNextField/releases/latest)
 - **Field Crop Planner** — Ayuda a optimizar el cultivo hacia la autosuficiencia total para tus producciones activas. → [Descargar](https://github.com/LazyChilla/FS25_FieldCropPlanner/releases/latest)
-- **FarmAssistant** _(beta)_ — Asistente de labores: ve de un vistazo qué campos necesitan abono, cal, despedregado o cosecha. → [Descargar](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
+- **FarmAssistant** _(beta)_ — El mod paraguas: reúne tus tareas diarias de toda la granja — labores, producciones, animales, obras, compra y venta — y las muestra por prioridad de un vistazo. → [Descargar](https://github.com/LazyChilla/FS25_FarmAssistant/releases)
 
 </details>
 
