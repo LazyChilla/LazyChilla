@@ -14,6 +14,13 @@ Practical quality-of-life mods for <b>Farming Simulator 25</b> — free & open-s
 
 ## 🇩🇪 Meine Mods &nbsp;·&nbsp; 🇬🇧 My mods
 
+**Weniger Geklicke durch ESC-Menü und Karten — mehr spielen.**
+
+Diese Funktionen fehlen mir ehrlich gesagt schon seit dem LS17. Ich war ständig auf der Suche nach Mods, die mir die wichtigsten Infos auf den Punkt bringen, statt minutenlang in ESC-Menüs zu recherchieren — aber einen Mod, der das für mich zufriedenstellend löst, habe ich nie gefunden. Als ich dann durch KI das Skripten für mich entdeckt habe, sind diese Mods entstanden: in erster Linie für mich selbst — und weil sie mir den Hof-Alltag leichter machen, teile ich sie mit der Community. Reine Komfort- und Anzeige-Hilfen, kein Cheat, kein Autopilot.
+
+> _**Less clicking, less digging through menus, more playing.**_
+> _Honestly, I've been missing these features since FS17. I kept looking for mods that get the key info straight to the point, instead of spending minutes researching in ESC menus — but I never found one that solved it to my satisfaction. When I discovered scripting through AI, these mods came to be: first and foremost for myself — and because they make daily farm life easier, I share them with the community. Pure comfort and display helpers, no cheats, no autopilot._
+
 Ein Klick auf **⬇️ Download** führt zur neuesten Version. &nbsp;·&nbsp; A click on **⬇️ Download** takes you to the latest version.
 
 | | Mod | Was er macht &nbsp;·&nbsp; What it does | |
