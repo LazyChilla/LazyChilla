@@ -12,6 +12,11 @@ Practical quality-of-life mods for <b>Farming Simulator 25</b> — free & open-s
 
 ---
 
+> [!IMPORTANT]
+> 🔀 **GoToNextField** wird demnächst in **FarmAssistant** integriert und als eigenständiger Mod eingestellt — die Funktion bleibt dir erhalten, künftig gebündelt im Dach-Mod **FarmAssistant**. Bis zur Umstellung kannst du GoToNextField hier ganz normal weiter herunterladen.
+>
+> 🔀 **GoToNextField** will soon be merged into **FarmAssistant** and retired as a standalone mod — the feature stays, bundled from now on in the **FarmAssistant** umbrella mod. Until the switch, you can keep downloading GoToNextField here as usual.
+
 ## 🇩🇪 Meine Mods &nbsp;·&nbsp; 🇬🇧 My mods
 
 **Weniger Geklicke durch ESC-Menü und Karten — mehr spielen.**
