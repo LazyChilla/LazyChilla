@@ -10,6 +10,8 @@ Practical quality-of-life mods for <b>Farming Simulator 25</b> — free & open-s
 📍 Luxembourg 🇱🇺
 </p>
 
+> ⭐ **Magst du die Mods? Ein Stern im jeweiligen Repo hilft** — kostet einen Klick und hilft anderen, sie zu finden. · **Like the mods? A star on each repo helps** others discover them.
+
 ---
 
 > [!IMPORTANT]
